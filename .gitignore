@@ -1,0 +1,50 @@
+# =========================
+# Build output
+# =========================
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# =========================
+# Eclipse / STM32CubeIDE
+# =========================
+.metadata/
+.settings/
+*.launch
+
+# CubeIDE generated user settings (machine-specific)
+.project
+.cproject
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code (if opened there)
+# =========================
+.vscode/
+
+# =========================
+# CMake (if used in future)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
