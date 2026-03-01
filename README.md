@@ -39,14 +39,6 @@ The objective was to understand the system at a full engineering level rather th
 
 ## Repository Structure
 
-CAR-CONTROLLER/
-│
-├── docs/
-├── firmware/
-├── hardware/
-├── .gitignore
-└── README.md
-
 
 ### docs/
 
