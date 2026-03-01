@@ -1,3 +1,9 @@
+# Car Controller System
+
+![Car Assembly](docs/media/car_assembly_03.JPG)
+
+---
+
 ## Academic Challenge Context
 
 This project was developed as part of an academic robotics challenge with the following core requirements:
@@ -71,7 +77,6 @@ Each subfolder contains board-specific configuration and build instructions.
 Physical system design files:
 
 - cad → mechanical design files  
-- pcb → electronic board layouts  
 
 ---
 
