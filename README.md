@@ -1,6 +1,6 @@
 # Car Controller System
 
-![Car Assembly](docs/media/car_assembly_03.JPG)
+![Car Assembly](docs\04-media\03-showcase\car_assembly_03.JPG)
 
 ---
 
